@@ -1,0 +1,17 @@
+Wow, you actually opened this file?  
+
+Let me clear this up right now: THIS IS NOT THE FLAG.  
+Seriously, it's not. But since you're here, enjoy some totally unrelated and random trivia:
+
+- Fun fact: Birds are technically *modern-day dinosaurs*… Does that make me a dino too? 🦖  
+- You can’t hum while holding your nose. Go ahead, try it. I’ll wait.  
+- Want to hear a joke about construction?  I’m still working on it. 🔨  
+- Speaking of distraction: The real flag isn’t this obvious, is it? *Wink wink.*  
+- Cats sleep for 70% of their lives...  The other 30% is spent judging you. 💤  
+- Did you know? Cats are secretly plotting world domination.
+
+And while you're pondering life’s mysteries...  
+
+CTF{This_Is_Not_The_Flag}
+
+P.S. Trust me, it’s not the real flag. Or is it?
